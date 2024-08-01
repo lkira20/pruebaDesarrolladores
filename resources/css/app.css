@@ -1,0 +1,60 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.register-container {
+    justify-content: center;
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.register-container h1 {
+    margin-bottom: 10px;
+}
+
+.form-text {
+    font-size: 0.75em !important;
+}
+
+.amazon-button {
+    background: linear-gradient(to bottom, #f7dfa5, #f0c14b);
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .4) inset;
+}
+
+.small {
+    font-size: 0.78em !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+label {
+    font-size: 0.85em;
+}
+
+.form-control {
+    padding: .2rem .5rem;
+}
+
+main {
+    width: 350px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
