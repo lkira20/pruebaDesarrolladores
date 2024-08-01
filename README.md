@@ -12,6 +12,6 @@ Esto es una prueba tecnica elaborada por luis briceño
 - ejecute el comando "php artisan key:generate"
 - luego "php artisan migrate"
 - seguimos con el comando "npm install"
-- Y por ultimo "npm run dev"
+- Y por ultimo "npm run dev" (esto creara un servidor para los estilos el cual debera mantenerse corriendo para su correcto funcionamiento en un entorno local)
 
 Listo tu aplicacion ya deberia poder correr sin problemas
